@@ -1,0 +1,51 @@
+body{
+  background-color: #F7F7F7;
+  text-align: center;
+  font-family: 'Montserrat';
+}
+
+.social-icon{
+  margin: 1px 5px 6px;
+
+}
+
+.social-icon:hover{
+  color: #dd5353;
+  cursor: pointer;
+}
+
+.navbar{
+  background-color: #DD5353;
+  width: 100%;
+  padding: 0 10%;
+  color: white;
+}
+
+
+
+.content{
+  padding: 5% 10%;
+  width: 100%;
+}
+
+.signup{
+  background-color: #FF7D7D;
+  border-radius: 15px;
+  padding: 10% 5%;
+  color: white;
+}
+
+.submitButton{
+  background-color: #dd5353;
+  border: none;
+}
+
+.login{
+  margin-bottom: 30px;
+  padding-top: 40px;
+}
+
+.btn{
+  margin: 20px auto;
+  font-size: 20px;
+}
